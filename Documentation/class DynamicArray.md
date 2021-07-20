@@ -1,7 +1,7 @@
 template<typename T> 
 class DynamicArray;
 
-DynamicArray is class like std::vector, but in the future will have more functionality.
+DynamicArray is class like std::vector, but in the future it will have more functionality.
 
 T - is a type to storage
 
